@@ -1,5 +1,15 @@
 # 💫 About Me:
-🔭 I’m  Joseph Ngure...a tech enthusiast<br>👯 I’m looking to collaborate on any type of project<br>🌱 I’m currently learning web development<br>
+👋 Hello there! I'm Joseph Ngure, a passionate tech enthusiast eager to explore the vast world of technology.
+
+🔭 Currently, I'm diving deep into the realm of web development, discovering the intricacies of building dynamic and engaging web experiences.
+
+👯 I thrive on collaboration and am always open to exciting opportunities to work on diverse projects. Whether it's coding, brainstorming ideas, or contributing to a team effort, count me in!
+
+🌱 Every day is an opportunity for growth, and I'm continuously learning and honing my skills to stay at the forefront of the ever-evolving tech landscape.
+
+💡 Innovation drives me, and I'm constantly seeking out new challenges to push the boundaries of what's possible.
+
+🚀 Let's connect, collaborate, and create something extraordinary together!
 
 
 ## 🌐 Socials:
@@ -12,12 +22,12 @@
 <!--![](https://github-readme-streak-stats.herokuapp.com/?user=ngure1&theme=tokyonight&hide_border=false)<br/>-->
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ngure1&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
+<!--### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
+-->
 ---
 [![](https://visitcount.itsvg.in/api?id=ngure1&icon=7&color=1)](https://visitcount.itsvg.in)
 
